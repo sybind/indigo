@@ -19,7 +19,8 @@ resume-url: https://google.com/?q=my+resume
 url: https://sybind.github.io
 # your url: http://USERNAME.github.io
 
-permalink: /:title/
+#permalink: /:title/
+permalink: /
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
@@ -39,16 +40,16 @@ twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
 github: mygithub
 # gitlab: mygitlab
 # lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
+stackoverflow: 368937/sybind
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: wozniak.dan@gmail.com
