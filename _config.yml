@@ -16,10 +16,9 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://www.sybind.com
+url: sybind.com
 
 permalink: /:title/
-#permalink: /
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
@@ -29,9 +28,7 @@ permalink: /:title/
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+disqus: false
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
@@ -51,21 +48,7 @@ stackoverflow: 368937/sybind
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: wozniak.dan@gmail.com
-
-authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
-        external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+email: dan@sybind.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
