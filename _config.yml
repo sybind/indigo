@@ -18,7 +18,8 @@ resume-url: https://google.com/?q=my+resume
 
 url: sybind.com
 
-permalink: /:title/
+#permalink: /:title/
+permalink: /
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
